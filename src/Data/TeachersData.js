@@ -1,0 +1,44 @@
+export const datat = [
+    {
+        tid: "110",
+        tname: "sai",
+        tbatch: "B41WD",
+        temail: "sai234@gmail.com",
+        texperience: "8-10:30 AM",
+    },
+    {
+        tid: "111",
+        tname: "Ashok",
+        tbatch: "B33WD",
+        temail: "ashokm@gmail.com",
+        texperience: "9-11:45 AM",
+    },
+    {
+        tid: "112",
+        tname: "nishanth",
+        tbatch: "<B99></B99>WD",
+        temail: "nishnath@gmail.com",
+        texperience: "2-4:45 PM",
+    },
+    {
+        tid: "113",
+        tname: "Sivangi",
+        tbatch: "B21WD",
+        temail: "sivangi452@gmail.com",
+        texperience: "3-5 PM",
+    },
+    {
+        tid: "114",
+        tname: "Archana",
+        tbatch: "B843WD",
+        temail: "archane@gmail.com",
+        texperience: "9-12 PM",
+    },
+    {
+        tid: "115",
+        tname: "Resvanth",
+        tbatch: "B66WD",
+        temail: "resvanthb126@gmail.com",
+        texperience: "4-6 PM",
+    }
+]

@@ -1,0 +1,114 @@
+.App {
+  text-align: center;
+  background-color: lightyellow;
+  opacity: 1=;
+}
+
+.title {
+  padding: 12px;
+  font-size: 25px;
+  font-weight: bolder;
+  font-style: oblique;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: lime;
+}
+
+.nav-styles {
+  padding: 12px;
+  width: 100%;
+  background-color: purple;
+  display: flex;
+  justify-content: flex-start;
+  gap: 0.5rem;
+}
+
+.nav-buttons {
+  border: 1px solid thick;
+  color: lightcoral;
+  padding: 12px;
+  border-radius: 5px;
+  background-color: rgb(222, 222, 135);
+}
+
+.nav-buttons:hover {
+  background-color: black;
+  border: none;
+}
+
+footer {
+
+  padding: 17px;
+  font-size: larger;
+  font-weight: bolder;
+  width: 100%;
+  background-color: turquoise;
+}
+
+.user-content {
+  margin: 18px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 1rem;
+}
+
+.user-content-teacher {
+  margin: 18px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 1rem;
+}
+
+.user-card {
+  background-color: lightskyblue;
+  border-radius: 5px;
+  width: 250px;
+  height: 250px;
+}
+
+.user-card-teacher {
+  background-color: burlywood;
+  border-radius: 5px;
+  width: 250px;
+  height: 250px;
+}
+
+
+.btn {
+  padding: 10px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 12px;
+  background-color: lavender;
+}
+
+.btn-teacher {
+  padding: 10px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 12px;
+  background-color: lightslategrey;
+}
+
+.btn:hover {
+  background-color: black;
+  color: rgb(216, 35, 35);
+}
+
+.btn-teacher:hover {
+  background-color: black;
+  color: lightblue;
+}
+
+.children {
+  height: 100vh;
+  margin: 1vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
