@@ -56,7 +56,6 @@ const AppProvider = ({ children }) => {
 
     }, [])
 
-
     return (
         <AppContext.Provider
             value={{ user, setUser, usert, setUsert }}
